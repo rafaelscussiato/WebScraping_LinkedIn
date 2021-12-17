@@ -1,2 +1,2 @@
 # WebScraping_LinkedIn
-Farei um projeto de WebScraping no LinkedIn para conseguir encontrar vagas não listadas nos "Jobs".
+Farei um projeto de WebScraping do LinkedIn para encontrar vagas não listadas na aba "Jobs".
